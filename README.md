@@ -1,1 +1,1 @@
-# Video-Oyun-Koleksiyonu-Y-netim-Sistemi
+# Video Oyun Koleksiyonu Yönetim Sistemi
